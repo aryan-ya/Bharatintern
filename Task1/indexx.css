@@ -27,7 +27,7 @@
     text-align: center;
 }.mainnn{
     background-image:  linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),
-     url(./image/IN-en-20230206-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+     url(/image/IN-en-20230206-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
     background-size: cover;
     height: 105vh;
 }.line{
